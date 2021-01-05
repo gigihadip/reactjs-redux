@@ -1,0 +1,70 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "Adi",
+          "alamat": "Jl. a",
+          "umur": 24
+        },
+        {
+          "id": 2,
+          "nama": "Adi 2",
+          "alamat": "Jl. b",
+          "umur": 25
+        },
+        {
+          "id": 3,
+          "nama": "Adi 3",
+          "alamat": "Jl. c",
+          "umur": 26
+        },
+        {
+          "id": 4,
+          "nama": "Adi 4",
+          "alamat": "Jl. d",
+          "umur": 27
+        },
+        {
+          "id": 5,
+          "nama": "Adi 5",
+          "alamat": "Jl. d",
+          "umur": 27
+        },
+        {
+          "id": 6,
+          "nama": "Adi 6",
+          "alamat": "Jl. d",
+          "umur": 27
+        },
+        {
+          "id": 7,
+          "nama": "Adi 7",
+          "alamat": "Jl. d",
+          "umur": 27
+        },
+        {
+          "id": 8,
+          "nama": "Adi 8",
+          "alamat": "Jl. d",
+          "umur": 27
+        },
+        {
+          "id": 9,
+          "nama": "Adi 9",
+          "alamat": "Jl. d",
+          "umur": 27
+        },
+        {
+          "id": 10,
+          "nama": "Adi 10",
+          "alamat": "Jl. d",
+          "umur": 27
+        },
+        {
+          "id": 11,
+          "nama": "Adi 11",
+          "alamat": "Jl. d",
+          "umur": 27
+        }
+      ]
+}
